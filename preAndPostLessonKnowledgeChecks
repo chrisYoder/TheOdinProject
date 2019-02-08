@@ -1,0 +1,37 @@
+#How does the web work?
+
+1. Describe what the internet is?
+  Pre: The internet is a network of nodes upon which packets of information are transmitted to be viewed on a user's computer.
+  Post: 
+  
+2. Describe what packets are and how they are used to transfer data?
+  Pre: packets are small "chunks" of data that can be verified at the both ends to ensure that a complete webpage/set of code has been            transmitted. 
+  Post:
+  
+ 3. Understand the differences between a webpage, web server, web browser and search engine.
+  pre: 
+     webpage-->the rendered html/css and javascript functionality tha the user sees.
+     webserver-->a server on which the necessary files to create a webpage are stored.
+     web browser-->a program that most importantly contains a html parser and javascript engine which allows pages to be viewed and       functional
+     search engine-->utilizes worms to scan webpages and index them so that they can be easily found by users
+  Post:
+    webserver-->a server on which a webpages files are stored or hosted.
+     
+4. What is the client?
+  Pre: the client is the end user. So, when we say client side programming we are talking about programs that are executed on the users computer
+  Post:
+  
+5. What is a server?
+  Pre: a server is a non-local computer that is used to store and execute programs. For example, when we type in a webpage name we are sending a request to the DNS server which stores the actual address for the website. Then we send a request to that server in order to get the webpage 
+  Post: 
+  
+6. Explain what DNs servers are?
+  Pre: DNS stands for Domain Name Servers and are servers that store the actual IP addresses of websites
+  Post: 
+  
+7. What happens when you run a search on Google.com
+  Pre: When I run a search on Google I am searching through the websites that the Google worm has indexed for sites that match the name or topic that I have entered. Google returns the results as a Link with a short description of the webpage.
+  
+  
+I am fairly confident with the answers that I gave.
+    
